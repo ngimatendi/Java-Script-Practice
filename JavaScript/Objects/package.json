@@ -1,0 +1,12 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.Second.js",
+  "scripts": {
+    "start": "nodemon 2.Second.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

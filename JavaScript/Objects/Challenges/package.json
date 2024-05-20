@@ -1,0 +1,11 @@
+{
+  "name": "challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Challenge1.js",
+  "scripts": {
+    "start": "nodemon Challenge1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

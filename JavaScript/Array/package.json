@@ -1,0 +1,11 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Challenge4.js",
+  "scripts": {
+    "start": "nodemon Challenge4.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

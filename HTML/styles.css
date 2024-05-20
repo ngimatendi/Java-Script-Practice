@@ -1,0 +1,15 @@
+#input-box {
+  height: fit-content;
+  width: fit-content;
+  color: blue;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-box {
+  color: green;
+}
+
+.FormHeading {
+  text-align: center;
+}
